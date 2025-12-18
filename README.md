@@ -8,7 +8,7 @@
 - ‎‎Political Will & Governance – likelihood of sustained implementation
 ‎‎The objective is to support donor and program decision-making by identifying states where FP investments will yield the highest equity, feasibility, and impact returns.
 ‎
-# Methodology Summary
+# Methology Summary
 ‎Domains and Scoring Logic; Domain What It Measures Interpretation
 - ‎Need Score Demand pressure for FP services Higher = greater unmet need
 - ‎Readiness Score Health system capacity Higher = stronger systems
@@ -16,6 +16,9 @@
 - ‎Total Score Weighted composite of all domains Higher = higher priority
 - ‎State Rank Final prioritization order Rank 1 = highest priority
 ‎‎All indicators were normalized (0–1) to ensure comparability, and composite scores were generated to produce a transparent and defensible ranking.
+
+# Process
+The dataset was downloaded onto local storage and then connected a MySQL workbench for analysis. This include using GROUP BY clause or CASE WHEN statement to calculate aggregate attrition rates base on employee factors other factor like role, department, income, and years with the company. All insight translated to a user friendly visual made in Power BI. Other Functions are used to transform data using DAX and Power Query in Power BI. Data validations, evaluations, predictions and statistical operations are performed using Excel and Jupyter Notebook, using Pandas and Numpy 
 ‎
 ## Key Findings
 ‎Overall Prioritization Pattern
