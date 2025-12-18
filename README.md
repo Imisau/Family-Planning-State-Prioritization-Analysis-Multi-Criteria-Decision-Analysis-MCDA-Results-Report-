@@ -1,0 +1,2 @@
+# Family-Planning-State-Prioritization-Analysis-Multi-Criteria-Decision-Analysis-MCDA-Results-Report-
+Using a normalized multi-criteria decision framework aligned with NDHS and NHMIS indicators, I ranked states for FP scale-up by integrating unmet need, health system readiness, and political feasibility. The analysis enabled evidence-based prioritization, risk-aware investment planning, and donor-defensible selection of expansion geographies.
